@@ -1,0 +1,4 @@
+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
+git remote set-url origin https://<TOKEN>@github.com/<user_name>/<repo_name>.git
+
+git remote set-url origin https://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@github.com/fdcourses/test-pat.git
